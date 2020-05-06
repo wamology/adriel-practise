@@ -1,0 +1,8 @@
+body{background-color: rgb(7, 39, 86);}
+.navbar-brand{color:rgb(7, 39, 86) !important; font-weight: bold; font-size: 30px}
+.navbar{height: 75px}
+.navbar_padding{padding: 0px 120px 0px 120px }		
+.signup_btn{background-color: rgb(7, 39, 86);
+border-radius: 15px;
+font-weight: bold;
+padding: 0px 10px 0px 10px}
